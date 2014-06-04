@@ -7,4 +7,4 @@
     # Privet, kak dela?
 
 
-[TRanslit.net - конвертер текста](http://translit.net/)
+[Translit.net - конвертер текста](http://translit.net/)
