@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.version     = '0.0.1'
   s.date        = '2014-05-04'
   s.summary     = 'TranlistNet'
-  s.description = 'Transliterate ru <-> en'
+  s.description = 'Transliterate ru, ua, en'
   s.authors     = ['Maksim Berjoza']
   s.email       = 'maksim.berjoza@gmail.com'
   s.files       = ['lib/translit_net.rb']
